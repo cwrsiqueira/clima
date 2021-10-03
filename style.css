@@ -111,6 +111,9 @@ h1 {
     background-color: #FFF;
     transform-origin: left;
 }
+.tempDesc {
+    color: #FFF;
+}
 
 .aviso {
     color: #FFF;
